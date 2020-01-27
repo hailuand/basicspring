@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07380198-18fc-40d7-aa58-5b63432f502e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wq6H1Uc0SS7vS2sOlp1Pzdj11O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.pluralsight.service" />
+      <recent name="com.pluralsight.repository" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="conference" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07380198-18fc-40d7-aa58-5b63432f502e" name="Default Changelist" comment="" />
+      <created>1579864686475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579864686475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="57" width="1071" height="843" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579864824758">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="57" width="1071" height="843" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579864824758" />
+    <state x="335" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580087235088">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="335" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1580087235088" />
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1579865130967">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1579865130967" />
+    <state x="398" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580087417557">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="398" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1580087417557" />
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom" timestamp="1580089623531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580089623531" />
+    <state width="1398" height="226" key="GridCell.Tab.0.center" timestamp="1580089623529">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580089623529" />
+    <state width="1398" height="226" key="GridCell.Tab.0.left" timestamp="1580089623528">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580089623528" />
+    <state width="1398" height="226" key="GridCell.Tab.0.right" timestamp="1580089623530">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580089623530" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1579865020614">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579865020614" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579865228832">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1579865228832" />
+  </component>
+</project>
