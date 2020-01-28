@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07380198-18fc-40d7-aa58-5b63432f502e" name="Default Changelist" comment="" />
+    <list default="true" id="07380198-18fc-40d7-aa58-5b63432f502e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../conference-xml/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conference-xml/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../conference-xml/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conference-xml/src/main/java/com/pluralsight/repository/HibernateSpeakerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../conference-xml/src/main/java/com/pluralsight/repository/SpeakerRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conference-xml/src/main/java/com/pluralsight/service/SpeakerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../conference-xml/src/main/java/com/pluralsight/service/SpeakerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conference-xml/target/classes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../conference-xml/target/classes/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conference-xml/target/classes/com/pluralsight/repository/HibernateSpeakerRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conference-xml/target/classes/com/pluralsight/service/SpeakerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../conference-xml/target/classes/com/pluralsight/service/SpeakerServiceImpl.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Wq6H1Uc0SS7vS2sOlp1Pzdj11O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -110,9 +123,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579865020614" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580122726822">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580207802880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580122726822" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580207802880" />
   </component>
 </project>
